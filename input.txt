@@ -1,0 +1,3 @@
+Hello world!
+This is just a message to test out a simple word count.
+It is using Scala and Apache Spark.
